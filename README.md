@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @posdatamexico
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning fullstack
-- 💞️ I’m looking to collaborate on building app to share information
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on building app to save information and I am willing to do internship with you.
 - 📫 How to reach me www.posdatamexico.com
 
 <!---
